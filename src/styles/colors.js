@@ -7,13 +7,9 @@ const colors = {
   darker: '#333',
   black: '#000',
 
-  textGray: '#242424ff',
-
-  darkerGreen: '#05d08bff',
-  darkGreen: '#04da83ff',
-  green: '#03e37cff',
-  lightGreen: '#06ed76ff',
-  lighterGreen: '#01fd68ff',
+  lightBlue: '#9cdaf0',
+  lightPink: '#f4cab1',
+  mainPurple: '#7159c1',
 };
 
 export default colors;
